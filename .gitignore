@@ -1,6 +1,8 @@
 # Custom
 *.pem
 data
+model
+classes.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
